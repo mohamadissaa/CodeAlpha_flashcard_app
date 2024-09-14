@@ -7,10 +7,13 @@ A Flutter-based mobile application for creating, managing, and quizzing yourself
 *Score History: Tracks and displays the user's performance in quizzes.
 -Installation
 1-Clone this repository:
+
 git clone https://github.com/mohamadissaa/CodeAlpha_flashcard_app.git
 2-Navigate to the project directory:
+
 cd CodeAlpha_flashcard_app
 3-Install the dependencies:
+
 flutter pub get
 4-Run the app on your device or emulator:
 flutter run
